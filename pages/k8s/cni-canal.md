@@ -13,7 +13,7 @@ layout: [base, ubuntu-com]
 toc: False
 ---
 
-"Canal" is a shorthand for saying "Calico and Flannel", a common practise which sets
+"Canal" is a shorthand for saying "Calico and Flannel", a common practice which sets
 up Calico to handle policy management and Flannel to manage the network itself. This
 combination brings in Calico's support for the NetworkPolicy feature of Kubernetes,
 while utilizing Flannel's UDP-based network traffic to provide for an easier setup
